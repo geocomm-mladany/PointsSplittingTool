@@ -3,3 +3,5 @@ Is code for a scripting tool in ArcGIS Pro.
 Parameters of the scripting tool are:
   Input Points: Name - input_points, Data type - Feature Layer, Type - Required, Direction - Input
   OutputGDB: Name - output_workspace, Data type - Workspace, Type - Required, Direction - Output
+
+To be used with GeoComm's Indoor Mapping toolkit.
